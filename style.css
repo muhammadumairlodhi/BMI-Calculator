@@ -2,8 +2,8 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: linear-gradient(45deg, #010758,#490d61);
-    color: #FF2963;
+    background: linear-gradient(45deg, #010758,#010758);
+   color: #ccc;
 }
 
 .container {
@@ -12,6 +12,10 @@ body {
     padding: 20px;
     border: 1px solid #ccc;
     border-radius: 5px;
+    box-shadow: 10px 10px ;
+}
+h2{
+    color: #FF2963;
 }
 
 h1 {
