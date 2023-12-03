@@ -2,6 +2,8 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background: linear-gradient(45deg, #010758,#490d61);
+    color: #FF2963;
 }
 
 .container {
